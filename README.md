@@ -58,8 +58,9 @@ Developed churn model that reduced capital outflow by 18% and contact strategies
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmonteiro-pereira&layout=compact&theme=radical)](https://github.com/rmonteiro-pereira) -->
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=rmonteiro-pereira&theme=onedark) -->
+<!-- [![Rodrigo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rmonteiro-pereira&theme=react-dark)](https://github.com/rmonteiro-pereira) -->
+
 ---
 
 ### 📫 Let's Connect
