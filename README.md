@@ -41,22 +41,22 @@ Building scalable data pipelines and turning data into strategic insights.
 
 ### 🚀 Recent Projects
 
-#### [Data Lakehouse Implementation](https://github.com/yourusername/data-lakehouse)
+#### [Data Lakehouse Implementation](https://github.com/rmonteiro-pereira/data-lakehouse)
 Designed a Data Lakehouse on Databricks with Airflow, Spark and LakeFS, consolidating 42 data sources into reliable pipelines for analysis and self-service consumption.
 
-#### [DataOps Automation Framework](https://github.com/yourusername/dataops-framework)
+#### [DataOps Automation Framework](https://github.com/rmonteiro-pereira/dataops-framework)
 Led adoption of DataOps with CI/CD, data catalog, governance and automation of quality control and lineage using Great Expectations.
 
-#### [Churn Prediction Model](https://github.com/yourusername/churn-model)
+#### [Churn Prediction Model](https://github.com/rmonteiro-pereira/churn-model)
 Developed churn model that reduced capital outflow by 18% and contact strategies that increased NPS by 20%.
 
 ---
 
 ### 📈 GitHub Stats
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmonteiro-pereira&show_icons=true&theme=radical)](https://github.com/rmonteiro-pereira)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmonteiro-pereira&layout=compact&theme=radical)](https://github.com/rmonteiro-pereira)
 
 ---
 
