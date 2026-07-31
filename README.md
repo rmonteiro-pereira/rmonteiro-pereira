@@ -1,17 +1,42 @@
 # Rodrigo Monteiro Pereira
 
 [![Email](https://img.shields.io/badge/-rmonteiropereira1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rmonteiropereira1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-monteiro-pereira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-monteiro-pereira/)
+![Rio de Janeiro](https://img.shields.io/badge/-Rio_de_Janeiro,_BR-4A4A4A?style=flat&logo=googlemaps&logoColor=white)
 
-**Data & ML Engineering — lakehouses, ML systems, and the evaluation that keeps them honest.**
+**Data Platform & AI Lead Engineer** — data and AI platforms end to end, from architecture
+and data engineering through analytics, ML and AI agents.
 
-I build data platforms end to end: ingestion and orchestration, medallion storage on
-Delta/DuckDB, and the modelling, drift monitoring and evaluation harnesses that sit on
-top. I care about the parts most portfolios skip — idempotence, lineage, leakage tests,
-and being explicit about which numbers are real.
+I lead a Data & AI function across on-prem and cloud, with a strong focus on governance,
+data quality and regulatory compliance. Financial markets and telecoms. I care about the
+parts most portfolios skip — idempotence, lineage, leakage tests, and being explicit about
+which numbers are real.
 
-<!-- NEEDS: current role, employer and start date — not stated anywhere I could verify. -->
-<!-- NEEDS: years of experience, degree/education, and a CV link, if you want them here. -->
+---
+
+## Now — Data Platform & AI Lead Engineer at Telecall
+
+*Feb 2026 – present · reporting to the IT Director*
+
+Own the Data & AI function end to end, from architecture through execution.
+
+- Lead an analytics estate of **70+ pipelines, 60 datasets and 90 dashboards over terabytes**,
+  and its migration to a **Databricks** cloud architecture compliant with **three regulatory
+  jurisdictions (ANATEL, FCC, ANACOM)** — **100% GitOps** provisioning, regulatory controls
+  as **policy-as-code**.
+- Restructured data governance and sensitive-data handling: classification, protection,
+  regulatory and **LGPD** compliance.
+- Built **AI agents** for technical specification, **AIOps** in the customer-service SOC, and
+  automated report generation.
+- Built **near-real-time monitoring pipelines** for operations; optimised the product
+  catalogue with **UMAP** dimensionality reduction and **HDBSCAN** clustering.
+- Modernised the Power BI estate and shipped web dashboards.
+
+| Company | Role | Period |
+|---|---|---|
+| **Telecall** | Data Platform & AI Lead Engineer | Feb 2026 – present |
+| Consultoria Individual | Data & AI Consultant | Aug 2023 – Feb 2026 |
+| Faros Investimentos | Data Team Leader · Data Engineer | Aug 2021 – Aug 2023 |
 
 ---
 
@@ -58,7 +83,26 @@ and being explicit about which numbers are real.
 
 ---
 
+## Education
+
+| Institution | Degree | Period |
+|---|---|---|
+| **PUC-Rio** | Mestrado em Ciências de Dados e Inteligência Artificial *(MSc, Data Science & AI — in progress)* | Aug 2025 – present |
+| **PUC-Rio** | Bacharelado em Ciência da Computação *(BSc, Computer Science)* | Jan 2016 – Aug 2021 |
+
+<!-- NEEDS: certifications. The CV lists issuers only (Full Cycle, Stack Academy,
+     Stanford University, Alura) with no certification names, so nothing is stated
+     here. Send the actual names if you want a Certifications section. -->
+
+<!-- NEEDS: a downloadable CV. CV_Rodrigo-Monteiro_2026-07_PT.pdf is password-protected,
+     so it is deliberately not linked — a recruiter hitting a password prompt is worse
+     than no button. Re-export an unprotected PDF from Reactive Resume (source:
+     resume.json). Note it is PT-only; an EN version is likely wanted here. -->
+
+---
+
 ## Contact
 
 - **Email** — [rmonteiropereira1@gmail.com](mailto:rmonteiropereira1@gmail.com)
-- **LinkedIn** — [rodrigo-monteiro-pereira](https://www.linkedin.com/in/rodrigo-monteiro-pereira)
+- **LinkedIn** — [rodrigo-monteiro-pereira](https://www.linkedin.com/in/rodrigo-monteiro-pereira/)
+- **Location** — Rio de Janeiro – RJ, Brazil
