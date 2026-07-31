@@ -44,16 +44,12 @@ Own the Data & AI function end to end, from architecture through execution.
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| **[Open-Finance-LakeHouse](https://github.com/rmonteiro-pereira/Open-Finance-LakeHouse)** | Brazilian open-finance lakehouse: **51 active series across 10 source handlers**, medallion bronze → silver → gold, asset-driven Airflow 3 DAGs where each series is independently attributable, and 8 gold marts. A Spark Structured Streaming lane (event-time windows, `Trigger.AvailableNow` idempotence, near-real-time DuckDB mart) is in review. | Spark · Delta Lake · DuckDB · Airflow 3 · Polars · Kubernetes |
-| **[Scraper-Lib](https://github.com/rmonteiro-pereira/Scraper-Lib)** | A properly packaged Python library, not a script dump: `src/` layout, tests, versioned releases and a published documentation site. Ray-parallel downloads with retry/backoff, incremental mode and atomic state tracking. | Python · Ray · pytest · MkDocs |
+| **[Open-Finance-LakeHouse](https://github.com/rmonteiro-pereira/Open-Finance-LakeHouse)** | Brazilian open-finance lakehouse on real public BACEN/IBGE/IPEA/B3 data: **51 active series across 10 source handlers**, medallion bronze → silver → gold, asset-driven Airflow 3 DAGs where each series is independently attributable, 8 gold marts, plus shipped Spark Structured Streaming and dbt lanes. | Spark · Delta Lake · DuckDB · Airflow 3 · Polars · Kubernetes |
+| **[rag-eval](https://github.com/rmonteiro-pereira/rag-eval)** | RAG over real Banco Central Copom minutes, built as an **evaluation** problem rather than a demo: a diagnosed retrieval defect, a controlled ablation whose arms differ by one component at a time, and prompt-injection and PII guardrails measured against an ungoverned control arm. Gold-set status is enforced in code — `--min-status validated` returns nothing until a human validates. | Python · Qdrant · sentence-transformers · Presidio · FastAPI |
+| **[energy-forecast-drift](https://github.com/rmonteiro-pereira/energy-forecast-drift)** | The MLOps axis: temporal-leakage control, walk-forward backtesting, four drift detectors (PSI/KS, target, prediction, performance) with a retrain-trigger verdict, and gated promotion through an MLflow registry. Demand data is a synthetic fixture pending an API key, and every artifact carries `"is_real": false` to say so. | Python · LightGBM · MLflow · FastAPI · React |
+| **[Scraper-Lib](https://github.com/rmonteiro-pereira/Scraper-Lib)** | A properly packaged Python library, not a script dump: `src/` layout, tests, semantic versioning with an automated release pipeline, and a published documentation site. Ray-parallel downloads with retry/backoff, incremental mode and atomic state tracking. | Python · Ray · pytest · MkDocs |
 | **[neuro_tech](https://github.com/rmonteiro-pereira/neuro_tech)** | IPTU (property-tax) pipeline built as a technical challenge: medallion architecture on Delta Lake with a PySpark path, automated data-quality validation via PyDeequ, and a containerised Spark runtime. | PySpark · Delta Lake · PyDeequ · Docker |
 | **[ai-cli-bridge](https://github.com/rmonteiro-pereira/ai-cli-bridge)** | A small, focused tool that syncs MCP servers, skills, memory and session handoff between two agent CLIs — solving a real daily friction rather than a toy problem. | PowerShell · MCP |
-
-<!-- NEEDS: two more projects are being prepared for publication and are deliberately not
-     linked here yet, because linking a private repo shows a 404 to visitors:
-       - rag-eval               (retrieval evaluation harness: recall@k, MRR, nDCG)
-       - energy-forecast-drift  (forecasting + drift detection: PSI/KS, MLflow registry)
-     Add rows for them once they are public. -->
 
 ---
 
@@ -89,15 +85,6 @@ Own the Data & AI function end to end, from architecture through execution.
 |---|---|---|
 | **PUC-Rio** | Mestrado em Ciências de Dados e Inteligência Artificial *(MSc, Data Science & AI — in progress)* | Aug 2025 – present |
 | **PUC-Rio** | Bacharelado em Ciência da Computação *(BSc, Computer Science)* | Jan 2016 – Aug 2021 |
-
-<!-- NEEDS: certifications. The CV lists issuers only (Full Cycle, Stack Academy,
-     Stanford University, Alura) with no certification names, so nothing is stated
-     here. Send the actual names if you want a Certifications section. -->
-
-<!-- NEEDS: a downloadable CV. CV_Rodrigo-Monteiro_2026-07_PT.pdf is password-protected,
-     so it is deliberately not linked — a recruiter hitting a password prompt is worse
-     than no button. Re-export an unprotected PDF from Reactive Resume (source:
-     resume.json). Note it is PT-only; an EN version is likely wanted here. -->
 
 ---
 
